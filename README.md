@@ -7,7 +7,7 @@ Modern LLM alignment methods such as RLHF (Reinforcement Learning from Human Fee
 
 This makes current approaches inefficient, costly, and difficult to scale as models grow in complexity and capability.
 
-# Solution — ASA-LLMs (Autonomous Self-Aligned LLMs):
+# Solution - ASA-LLMs (Autonomous Self-Aligned LLMs):
 This paper introduces ASA-LLMs, a novel framework for achieving
 
 - Full alignment autonomy during the pretraining phase
@@ -30,5 +30,5 @@ This paper introduces ASA-LLMs, a novel framework for achieving
 # Impact
 ASA-LLMs demonstrate that LLMs can align themselves without human feedback by leveraging intrinsic behavioral signals. This provides a scalable, efficient, and mathematically grounded path toward safe and aligned artificial intelligence.
 
-🛡️ Protected Research
+# Protected Research 🛡️
 © This research presents original architectures, algorithms, and training methods. Any reuse, implementation, or modification without explicit permission is strictly prohibited.
